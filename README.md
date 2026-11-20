@@ -2,7 +2,7 @@
 
 A packing-list app for trips, built with React. Add what you need to bring, tick items off as you pack, and watch the progress bar fill up.
 
-[Travel Pack screenshot](public/screenshot.png)
+[Travel Pack screenshot](public/Screenshot.png)
 
 ## Features
 
